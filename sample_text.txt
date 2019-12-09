@@ -1,0 +1,29 @@
+
+
+There was an interesting analyst note out on Monday regarding technology giant Apple (AAPL). The analyst covering the name at JPMorgan stated that the company will release four new iPhones next fall, which would represent the largest smartphone unveiling in the company's history. While I have discussed a larger iPhone portfolio as potentially beneficial for Apple, this latest rumor seems to stretch the situation just a bit too much.
+
+The fall of 2019 was the third year in a row where Apple went with a three iPhone launch cycle, although not all devices were released in one shot. Last year, the company went to its current ongoing lineup, which featured the entry-level device containing a 6.1-inch LCD display, with two higher-end phones having 5.8-inch and 6.5-inch OLED displays. You can see a comparison of the most recent iPhones on Apple's site in the source link below, with the three flagship models seen here.
+
+(Source: iPhone compare page, seen here)
+
+As I've discussed for some time, there's the possibility of a new iPhone coming in the spring of 2020, which would be a so-called SE 2. This one would be a smaller screen, lower priced device, potentially with a screen comparable to the iPhone 8 at 4.7 inches. The interesting part about Monday's analyst note is that the four devices discussed would all come in the fall of 2020, so this could mean five new iPhones in total. Here's the key part of the analyst's note:
+
+    The 2H20 lineup will include all OLED phones, with screen sizes of 5.4″ (one model), 6.1″ (two models), and 6.7″ (one model), broadening the screen size range from 5.8″ to 6.5″ in 2019. We expect the two higher end models (one 6.1″, one 6.7″) to include mmWave support, triple camera and World facing 3D sensing, while the lower-end models (one 6.1″, one 5.4″) will include support for only sub-6 GHz and dual camera (no world-facing 3D sensing).
+
+Part of this analyst's report lines up with some of what we have heard previously, that is what we'll see new display sizes of 5.4 and 6.7 inches in 2020. The newest part is that fourth phone, a second one coming in with a 6.1-inch display. This would allow Apple to have two lower priced phones and two higher priced ones. After the 2018 launch cycle saw some consumer backlash from higher prices, Apple did a much better job this year of delivering more value to the consumer.
+
+Monday's note also said that Apple could adopt an entirely new iPhone strategy in 2021, where it goes to two launches per year, one in the spring and one in the fall. This is a strategy I mentioned back in June, basically in line with what competitors like Google (GOOG) (GOOGL) and Samsung (OTC:SSNLF) do. It would allow Apple to spread out its revenues more evenly throughout the year, and it probably would be better for production plans. The interesting part is that Monday's note suggests this would mean six new iPhones launched in a six or so month period, which would seem a bit much for what Apple normally does.
+
+I'd be most curious about how Apple would price a four new device setup, given what the current lineup looks like in the table below. Perhaps the entry-level 5.4-inch version would be the replacement for the iPhone 11 at $699, with the 6.1-inch version bridging the gap to the higher end versions perhaps at $799 to $899. Apple could then keep the two more expensive ones at $999 and $1,099 respectively, or it could raise prices given the screen sizes would be larger than their prior-year counterparts plus there would be a lot of new technology like 5G compatibility and 3D world sensing capabilities.
+
+(Source: apple.com iPhone pages, seen here)
+
+While launching more devices would give the company a broader set of price points, I don't think it would make a meaningful financial impact in the short term. If Apple really wants to increase iPhone unit sales in a big way, it needs to come out with a much lower priced device, one that really would be targeting emerging markets like India where Apple has very low market share. At the moment, the company seems destined to remain in the premium space, not taking on the biggest part of the smartphone market that's flooded with a variety of competitors.
+
+In the end, Monday's analyst note about Apple's smartphone plans seems rather interesting, although I'm not sure it is 100% believable. While I do think we'll see a different iPhone strategy in the coming years, potentially meaning more smartphone releases throughout the year, I don't know if we'll see four phones launched next fall. At the moment, Apple seems more interested in boosting users to its new services, which are a key part of the company's expected revenue growth as seen in the graphic below.
+
+(Source: Seeking Alpha estimates page, seen here)
+
+Disclosure: I/we have no positions in any stocks mentioned, and no plans to initiate any positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.
+
+Additional disclosure: Investors are always reminded that before making any investment, you should do your own proper due diligence on any name directly or indirectly mentioned in this article. Investors should also consider seeking advice from a broker or financial adviser before making any investment decisions. Any material in this article should be considered general information, and not relied on as a formal investment recommendation.
